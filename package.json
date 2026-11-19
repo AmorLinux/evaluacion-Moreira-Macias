@@ -1,0 +1,21 @@
+{
+  "name": "evaluacion-moreira-macias",
+  "version": "1.0.0",
+  "description": "Nombre: Ariel Gonzalo Moreira Macias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmorLinux/evaluacion-Moreira-Macias.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AmorLinux/evaluacion-Moreira-Macias/issues"
+  },
+  "homepage": "https://github.com/AmorLinux/evaluacion-Moreira-Macias#readme"
+}
